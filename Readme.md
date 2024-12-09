@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav A. Lahitkar</h1>
 <h3 align="center">Good in C, JAVA, Cloud Computing and DevOps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavlahitkar&label=Profile%20views&color=0e75b6&style=flat" alt="pranavlahitkar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavlahitkar" alt="pranavlahitkar" /></a> </p>
 
