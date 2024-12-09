@@ -2,7 +2,6 @@
 <h3 align="center">Good in C, JAVA, Cloud Computing and DevOps</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavlahitkar" alt="pranavlahitkar" /></a> </p>
 
 - 🔭 I’m currently working on **AWS production level architecture for deployement**
 
