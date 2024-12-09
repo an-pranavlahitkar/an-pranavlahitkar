@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav A. Lahitkar</h1>
-<h3 align="center">Good in C, JAVA, Cloud Computing and DevOps</h3>
+<h3 align="center">Good in C, JavaScript, Cloud Computing and DevOps</h3>
 
 
 
