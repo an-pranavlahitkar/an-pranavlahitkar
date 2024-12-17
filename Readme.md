@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **AWS production level architecture for deployement**
+- 🔭 I’m currently working as **Intern @ApplicationNexus**
 
 - 🌱 I’m currently learning **RHCE, SHELL SCRIPTING, AWS, JAVA, DevOps, SPRING BOOT, DBMS**
 
