@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **RHCE, SHELL SCRIPTING, AWS, JAVA, DevOps, SPRING BOOT, DBMS**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pranav-lahitkar/](https://www.linkedin.com/in/pranav-lahitkar/)
+- 👨‍💻 All of my projects are available at [https://github.com/an-pranavlahitkar])
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pranav-lahitkar/](https://www.linkedin.com/in/pranav-lahitkar/)
 
