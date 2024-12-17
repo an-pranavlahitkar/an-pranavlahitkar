@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Intern @ApplicationNexus**
 
-- 🌱 I’m currently learning **RHCE, SHELL SCRIPTING, AWS, JAVA, DevOps, SPRING BOOT, DBMS**
+- 🌱 I’m currently learning **RHCE, SHELL SCRIPTING, AWS, JAVA, DevOps, Node.Js, DBMS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/an-pranavlahitkar])
 
